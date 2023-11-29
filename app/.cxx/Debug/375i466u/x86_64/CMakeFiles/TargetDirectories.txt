@@ -1,0 +1,3 @@
+C:/Users/coler/Downloads/TipCalculator/app/.cxx/Debug/375i466u/x86_64/CMakeFiles/native-lib.dir
+C:/Users/coler/Downloads/TipCalculator/app/.cxx/Debug/375i466u/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/coler/Downloads/TipCalculator/app/.cxx/Debug/375i466u/x86_64/CMakeFiles/rebuild_cache.dir

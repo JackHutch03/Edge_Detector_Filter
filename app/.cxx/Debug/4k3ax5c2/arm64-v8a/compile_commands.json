@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/coler/Downloads/TipCalculator/app/.cxx/Debug/4k3ax5c2/arm64-v8a",
+  "command": "C:\\Users\\coler\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/coler/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\native-lib.cpp.o -c C:\\Users\\coler\\Downloads\\TipCalculator\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "C:\\Users\\coler\\Downloads\\TipCalculator\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

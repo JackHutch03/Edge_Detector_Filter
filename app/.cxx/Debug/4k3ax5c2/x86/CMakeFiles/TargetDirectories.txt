@@ -1,0 +1,3 @@
+C:/Users/jackh/Downloads/TipCalculator(1)/TipCalculator/app/.cxx/Debug/4k3ax5c2/x86/CMakeFiles/native-lib.dir
+C:/Users/jackh/Downloads/TipCalculator(1)/TipCalculator/app/.cxx/Debug/4k3ax5c2/x86/CMakeFiles/edit_cache.dir
+C:/Users/jackh/Downloads/TipCalculator(1)/TipCalculator/app/.cxx/Debug/4k3ax5c2/x86/CMakeFiles/rebuild_cache.dir
